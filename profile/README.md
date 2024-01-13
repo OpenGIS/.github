@@ -1,3 +1,3 @@
 # Open GIS
 
-Open Source GIS tools for the Web.
+Open-Source GIS tools for the Web.
