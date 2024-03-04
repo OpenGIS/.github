@@ -8,7 +8,7 @@ Open GIS is an open-source software organisation dedicated to democratising acce
 
 ## Core Contributors
 
-- [Joe Hawes](https://github.com/morehawes) &ndash; Founder of OpenGIS, full-stack web developer with 27 years of experience.
+- [Joe Hawes](https://github.com/morehawes) &ndash; Founder of Open GIS, full-stack web developer with 27 years of experience.
 
 ## How to Contribute
 
