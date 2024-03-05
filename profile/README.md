@@ -5,6 +5,7 @@ Open GIS is an open-source software organisation dedicated to democratising acce
 - [Waymark](https://github.com/OpenGIS/Waymark) &ndash; A GIS plugin for WordPress, allowing users to incorporate interactive maps into their websites.
 - [Waymark JS](https://github.com/OpenGIS/Waymark-JS) &ndash; JavaScript library for creating and editing interactive maps, spun off from the Waymark plugin.
 - [Inreach Mapshare](https://github.com/OpenGIS/Inreach-Mapshare) &ndash; A WordPress plugin utilising the Garmin Inreach API to display real-time location data on maps.
+- [Map First](https://github.com/OpenGIS/Map-First) &ndash;  A Minimal Wordpress Theme With An *Obsession* For Maps.
 
 ## Core Contributors
 
