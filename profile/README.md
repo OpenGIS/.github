@@ -24,5 +24,11 @@ We ❤️ Open-Source 🗺
 
 ## Current Sponsors
 
-- [Auction Nudge](https://www.auctionnudge.com/) &ndash; Free tools for eBay Seller since 2008.
-- [JetBrains](https://www.jetbrains.com/) &ndash; Get the right tools for the job.
+- [Auction Nudge](https://www.auctionnudge.com/) &ndash; Advertising tools for eBay Sellers, since 2008.
+- [JetBrains](https://www.jetbrains.com/) &ndash; Essential tools for software developers and teams.
+
+## Currently Recruiting
+
+- Senior Software Architect
+- Senior Project Manager
+- Community advocates 💖
