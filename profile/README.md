@@ -1,8 +1,10 @@
-## Democratising access to Information about the world around us
+## Democratising Information About The World Around Us
 
 Providing free data and tools to view, modify and collaborate on location-based data.
 
-❤️ Open-Source 🗺
+### Built On The Shoulders Of Giants
+
+We ❤️ Open-Source 🗺
 
 - [WordPress](https://www.wordpress.org/)
 - [OpenStreetMap](http://www.openstreetmap.org/)
@@ -20,15 +22,7 @@ Providing free data and tools to view, modify and collaborate on location-based 
 
 - [Joe Hawes](https://github.com/morehawes) &ndash; Founder of Open GIS, full-stack web developer with 27 years of experience.
 
-## How to Contribute
-
-We welcome contributions from the community to improve our projects! Here's how you can get involved:
-
-- Fork the repository of the project you want to contribute to.
-- Make your changes and test thoroughly.
-- Submit a pull request detailing your changes and improvements.
-
-### Current Sponsors
+## Current Sponsors
 
 - [Auction Nudge](https://www.auctionnudge.com/) &ndash; Free tools for eBay Seller since 2008.
-- [JetBrains](https://www.jetbrains.com/) &ndash; Providing free licenses for all their products.
+- [JetBrains](https://www.jetbrains.com/) &ndash; Get the right tools for the job.
