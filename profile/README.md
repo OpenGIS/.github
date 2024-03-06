@@ -1,4 +1,13 @@
-Open GIS is an open-source software organisation dedicated to democratising access to Geographical Information Systems (GIS) data. Our mission is to provide free data and tools for viewing, modifying, and collaborating on location-based information.
+## Democratising access to Information about the world around us
+
+Providing free data and tools to view, modify and collaborate on location-based data.
+
+❤️ Open-Source 🗺
+
+- [WordPress](https://www.wordpress.org/)
+- [OpenStreetMap](http://www.openstreetmap.org/)
+- [Leaflet](https://leafletjs.com/)
+- [MapLiber](https://maplibre.org/)
 
 ## Projects
 
