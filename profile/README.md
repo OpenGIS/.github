@@ -15,7 +15,7 @@ We ❤️ Open-Source 🗺
 
 - [Waymark](https://github.com/OpenGIS/Waymark) &ndash; A GIS plugin for WordPress that doesn't require a GIS degree! Add rich, _meaningful_ maps to your website with ease.
 - [Waymark JS](https://github.com/OpenGIS/Waymark-JS) &ndash; A JavaScript library for creating, editing and sharing geographical information.
-- [Inreach Mapshare](https://github.com/OpenGIS/Inreach-Mapshare) &ndash; A WordPress plugin for Garming Inreach owners to share their current location on their website.
+- [Inreach Mapshare](https://github.com/OpenGIS/Inreach-Mapshare) &ndash; A WordPress plugin for Garmin Inreach owners to share their current location on their website.
 - [Map First](https://github.com/OpenGIS/Map-First) &ndash; A Minimal Wordpress Theme With An _Obsession_ For Maps.
 
 ## Core Contributors
