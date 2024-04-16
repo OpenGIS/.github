@@ -26,9 +26,3 @@ We ❤️ Open-Source 🗺
 
 - [Auction Nudge](https://www.auctionnudge.com/) &ndash; Advertising tools for eBay Sellers, since 2008.
 - [JetBrains](https://www.jetbrains.com/) &ndash; Essential tools for software developers and teams.
-
-## Currently Recruiting
-
-- Senior Software Architect
-- Senior Project Manager
-- Community advocates 💖
