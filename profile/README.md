@@ -20,7 +20,7 @@ We ❤️ Open-Source 🗺
 
 ## Core Contributors
 
-- [Joe Hawes](https://github.com/morehawes) &ndash; Founder of Open GIS, full-stack web developer with 27 years of experience.
+- [Joe Hawes](https://github.com/morehawes) &ndash; The founder of Open GIS, Joe has been working with web technologies since 1997.
 
 ## Current Sponsors
 
