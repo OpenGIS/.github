@@ -24,5 +24,10 @@ We ❤️ Open-Source 🗺
 
 ## Current Sponsors
 
+![Auction Nudge](./img/sponsor-logo-auctionnudge.png)
+
 - [Auction Nudge](https://www.auctionnudge.com/) &ndash; Advertising tools for eBay Sellers, since 2008.
+
+![JetBrains](./img/sponsor-logo-jetbrains.jpg)
+
 - [JetBrains](https://www.jetbrains.com/) &ndash; Essential tools for software developers and teams.
