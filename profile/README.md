@@ -13,18 +13,18 @@ Providing free data and tools to view, modify and collaborate on location-based 
 
 - [Joe Hawes](https://www.morehawes.ca/) &ndash; The founder of Open GIS, Joe has been working with web technologies since 1997.
 
-## The Shoulders of Giants
+## We ❤️ Open-Source 🗺
 
-We ❤️ Open-Source 🗺
+Built on the shoulders of giants.
 
-- [WordPress](https://www.wordpress.org/)
 - [OpenStreetMap](http://www.openstreetmap.org/)
+- [WordPress](https://www.wordpress.org/)
 - [Leaflet](https://leafletjs.com/)
 - [MapLibre](https://maplibre.org/)
 
 ## Current Sponsors
 
-| | | |
-| ----------------------------------------------------- | ---------------------------------------------- | -------------------------------------------------- |
-| ![Auction Nudge](./img/sponsor-logo-auctionnudge.png) | [Auction Nudge](https://www.auctionnudge.com/) | Advertising tools for eBay Sellers, since 2008.    |
-| ![JetBrains](./img/sponsor-logo-jetbrains.jpg)        | [JetBrains](https://www.jetbrains.com/)        | Essential tools for software developers and teams. |
+|                                                       |                                                                                                            |
+| ----------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| ![Auction Nudge](./img/sponsor-logo-auctionnudge.png) | **[Auction Nudge](https://www.auctionnudge.com/)** &ndash; Advertising tools for eBay Sellers, since 2008. |
+| ![JetBrains](./img/sponsor-logo-jetbrains.png)        | **[JetBrains](https://www.jetbrains.com/)** &ndash; Essential tools for software developers and teams.     |
