@@ -26,5 +26,5 @@ Built on the shoulders of giants.
 
 |                                                       |                                                                                                            |
 | ----------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
-| ![Auction Nudge](img/sponsor-logo-auctionnudge.png) | **[Auction Nudge](https://www.auctionnudge.com/)** &ndash; Advertising tools for eBay Sellers, since 2008. |
-| ![JetBrains](img/sponsor-logo-jetbrains.png)        | **[JetBrains](https://www.jetbrains.com/)** &ndash; Essential tools for software developers and teams.     |
+| ![Auction Nudge](profile/img/sponsor-logo-auctionnudge.png) | **[Auction Nudge](https://www.auctionnudge.com/)** &ndash; Advertising tools for eBay Sellers, since 2008. |
+| ![JetBrains](profile/img/sponsor-logo-jetbrains.png)        | **[JetBrains](https://www.jetbrains.com/)** &ndash; Essential tools for software developers and teams.     |
