@@ -13,7 +13,7 @@ Providing free data and tools to view, modify and collaborate on location-based 
 
 - [Joe Hawes](https://www.morehawes.ca/) &ndash; The founder of Open GIS, Joe has been working with web technologies since 1997.
 
-### Built On The Shoulders Of Giants
+## The Shoulders of Giants
 
 We ❤️ Open-Source 🗺
 
