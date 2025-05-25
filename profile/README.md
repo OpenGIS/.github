@@ -24,6 +24,6 @@ Built on the shoulders of giants.
 
 ## Current Sponsors
 
-|                                                       |                                                                                                            |
-| ----------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
-| ![Auction Nudge](../profile/img/sponsor-logo-auctionnudge.png) | **[Auction Nudge](https://www.auctionnudge.com/)** &ndash; Advertising tools for eBay Sellers, since 2008. |
+![Auction Nudge](../profile/img/sponsor-logo-auctionnudge.png)
+
+**[Auction Nudge](https://www.auctionnudge.com/)** &ndash; Advertising tools for eBay Sellers, since 2008.
