@@ -4,6 +4,7 @@ Providing free data and tools to view, modify and collaborate on location-based 
 
 ## Current Projects
 
+- [ogis.app](https://www.ogis.app/) &ndash;  The free, Open-Source app for creating and editing meaningful Maps in the browser. 
 - [Waymark](https://github.com/OpenGIS/Waymark) &ndash; A GIS plugin for WordPress that doesn't require a GIS degree! Add rich, _meaningful_ maps to your website with ease.
 - [Waymark JS](https://github.com/OpenGIS/Waymark-JS) &ndash; A JavaScript library for creating, editing and sharing geographical information.
 - [Inreach Mapshare](https://github.com/OpenGIS/Inreach-Mapshare) &ndash; A WordPress plugin for Garmin Inreach owners to share their current location on their website.
