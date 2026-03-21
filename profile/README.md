@@ -10,7 +10,7 @@ Providing free, powerful web applications to help make Mapping easy and accessib
 | :--- | :--- | :--- |
 | **[Navigator](https://www.ogis.org/navigator/)** |  A web app for not getting lost.  |  [GitHub](https://github.com/OpenGIS/navigator) |
 | **[ogis.app](https://ogis.app)** | A full-featured web-based Map Editor running in the browser. Create and share maps without installing software. |  [GitHub](https://github.com/OpenGIS/ogis-app) |
-| **[Waymark WP](https://www.ogis.org/waymark-wp/)** | The popular WordPress plugin to easily create, edit, and share meaningful maps. (1,000+ active users) | [WordPress](https://wordpress.org/plugins/waymark/) • [GitHub](https://github.com/OpenGIS/waymark) |
+| **[Waymark WP](https://wordpress.org/plugins/waymark/)** | The popular WordPress plugin to easily create, edit, and share meaningful maps. (1,000+ active users) | [GitHub](https://github.com/OpenGIS/waymark) |
 | **[Waymark JS](https://www.ogis.org/waymark-js/)** | A JavaScript library for creating and editing maps. Includes a Map Editor, Viewer, and Overlay controls. |  [GitHub](https://github.com/OpenGIS/waymark-js) |
 | **[inReach MapShare](https://github.com/OpenGIS/Inreach-Mapshare)** | A WordPress plugin to display live Garmin inReach location data on your website. | [GitHub](https://github.com/OpenGIS/Inreach-Mapshare) |
 | **[Map First](https://github.com/OpenGIS/Map-First)** | A minimal WordPress Theme with an obsession for Maps. Designed for use with Waymark. | [GitHub](https://github.com/OpenGIS/Map-First) |
