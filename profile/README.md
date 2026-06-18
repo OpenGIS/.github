@@ -8,7 +8,6 @@ Providing free, powerful web applications to help make Mapping easy and accessib
 
 | Project | Description | Links |
 | :--- | :--- | :--- |
-| **[On Route](https://www.onrte.app/)** |  A world navigator for the browser. Get to where you are going.  |   |
 | **[ogis.app](https://ogis.app)** | A full-featured web-based Map Editor running in the browser. Create and share maps without installing software. |  [GitHub](https://github.com/OpenGIS/ogis-app) |
 | **[Waymark WP](https://wordpress.org/plugins/waymark/)** | The popular WordPress plugin to easily create, edit, and share meaningful maps. | [GitHub](https://github.com/OpenGIS/waymark) |
 | **[Waymark JS](https://www.ogis.org/waymark-js/)** | A JavaScript library for creating and editing maps. Includes a Map Editor, Viewer, and Overlay controls. |  [GitHub](https://github.com/OpenGIS/waymark-js) |
