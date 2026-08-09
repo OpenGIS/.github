@@ -1,3 +1,5 @@
+Open GIS provides free, Open-Source web applications, libraries and data to make mapping easy and accessible for all.
+
 ## Built on the shoulders of giants. ❤️ 🗺
 
 - [OpenStreetMap](https://www.openstreetmap.org/)
