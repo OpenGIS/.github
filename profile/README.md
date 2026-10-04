@@ -1,6 +1,6 @@
 > A free, Open planet _for everyone_.
 
-[![Vancouver Island](https://raw.githubusercontent.com/OpenGIS/outdoors/master/screenshots/vancouver-island.jpg)](https://www.ogis.org/outdoors/#6.82/49.617/-126.76)
+[![Vancouver Island](https://raw.githubusercontent.com/OpenGIS/outdoors/master/screenshots/vancouver-island.jpg)](https://ogis.app/#map=7/49.853110/-125.616338/31/57)
 
 ---
 
