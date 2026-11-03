@@ -6,11 +6,12 @@
 
 ## Built on the shoulders of giants.
 
+- [W3C](https://www.w3.org/) > [HTML](https://html.spec.whatwg.org/) + [CSS](https://www.w3.org/Style/CSS/Overview.en.html) + [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OpenMapTiles](https://www.openmaptiles.org/)
 - [OpenFreeMap](https://www.openfreemap.org/)
 - [MapLibre](https://maplibre.org/)
-- [Vue.js](https://vuejs.org/)
-- [Nuxt](https://nuxt.com/)
+- [Vue.js](https://vuejs.org/) + [Nuxt](https://nuxt.com/)
 - [WordPress](https://www.wordpress.org/)
 - [Leaflet](https://leafletjs.com/)
+- [Esri](https://livingatlas.arcgis.com/wayback/)
