@@ -2,7 +2,9 @@
 
 > An Open planet _for everyone_.
 
-![2D Planet](img/planet-2d-180.jpg)
+[![2D Planet](img/planet-2d-180.jpg)](http://ogis.app/)
+
+[[ Play! ]](http://ogis.app/)
 
 ---
 
@@ -17,3 +19,4 @@
 - [WordPress](https://www.wordpress.org/)
 - [Leaflet](https://leafletjs.com/)
 - [Esri](https://livingatlas.arcgis.com/wayback/)
+- [Open-Source](https://en.wikipedia.org/wiki/Open_source/)
