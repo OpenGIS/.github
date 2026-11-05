@@ -17,6 +17,6 @@
 - [MapLibre](https://maplibre.org/)
 - [Vue.js](https://vuejs.org/) + [Nuxt](https://nuxt.com/)
 - [WordPress](https://www.wordpress.org/)
-- [Leaflet](https://leafletjs.com/)
+- [Leaflet 🇺🇦](https://leafletjs.com/)
 - [Esri](https://livingatlas.arcgis.com/wayback/)
 - [Open-Source](https://en.wikipedia.org/wiki/Open_source/)
